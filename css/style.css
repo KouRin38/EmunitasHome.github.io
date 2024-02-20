@@ -312,10 +312,6 @@ a:focus {
   color: #17857f;
 }
 
-.body_bg {
-  background-image: url(../images/body_bg.jpg);
-  background-size: cover;
-}
 
 .service_section .heading_container {
   -webkit-box-pack: center;
