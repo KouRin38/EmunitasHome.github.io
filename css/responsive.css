@@ -83,3 +83,26 @@
     }
 
 }
+@media (max-width:500px) {
+    h1, .h1{
+      font-size: 3rem;
+    }
+  }
+  @media (max-width:500px) {
+    .btn-1{
+      width: 100%;
+    }
+  }
+  @media (max-width:500px) {
+    .further-detailz{
+      width: 100%;
+    }
+  }
+  @media (max-width:500px) {
+    .hero_area {
+        width: 100%;
+        height: auto;
+        background-image: url(../images/emunitasGPdarkned.jpg);
+        left: 50%;
+      }
+  }
